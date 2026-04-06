@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.31.0",
+    "lucide-react": "^0.563.0",
+    "react-dropzone": "^14.4.0",
+    "react-hot-toast": "^2.6.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
